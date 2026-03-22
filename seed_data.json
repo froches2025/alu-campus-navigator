@@ -1,0 +1,650 @@
+{
+  "buildings": [
+    {
+      "id": "social-commons",
+      "name": "Social Commons",
+      "short_name": "SC"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "SC-G-ENT-A",
+      "building_id": "social-commons",
+      "name": "Main Entrance A",
+      "floor": 0,
+      "type": "entrance",
+      "x": 15,
+      "y": 45,
+      "aliases": [
+        "entrance",
+        "front door",
+        "egypt entrance"
+      ]
+    },
+    {
+      "id": "SC-G-ENT-B",
+      "building_id": "social-commons",
+      "name": "Main Entrance B",
+      "floor": 0,
+      "type": "entrance",
+      "x": 15,
+      "y": 55,
+      "aliases": [
+        "side entrance",
+        "second entrance"
+      ]
+    },
+    {
+      "id": "SC-G-CORRIDOR",
+      "building_id": "social-commons",
+      "name": "Ground Floor Corridor",
+      "floor": 0,
+      "type": "corridor",
+      "x": 35,
+      "y": 50,
+      "aliases": [
+        "lobby",
+        "hallway",
+        "ground floor hallway"
+      ]
+    },
+    {
+      "id": "SC-G-EGYPT",
+      "building_id": "social-commons",
+      "name": "Egypt Learning Lab",
+      "floor": 0,
+      "type": "room",
+      "x": 30,
+      "y": 30,
+      "aliases": [
+        "egypt",
+        "egypt lab",
+        "egypt classroom",
+        "learning lab egypt"
+      ]
+    },
+    {
+      "id": "SC-G-STAIRS-A",
+      "building_id": "social-commons",
+      "name": "Staircase A",
+      "floor": 0,
+      "type": "staircase",
+      "x": 20,
+      "y": 50,
+      "aliases": [
+        "stairs",
+        "staircase",
+        "egypt stairs",
+        "left stairs"
+      ]
+    },
+    {
+      "id": "SC-G-FOODCOURT",
+      "building_id": "social-commons",
+      "name": "Food Court",
+      "floor": 0,
+      "type": "common_area",
+      "x": 55,
+      "y": 50,
+      "aliases": [
+        "food court",
+        "cafeteria",
+        "dining",
+        "eating area"
+      ]
+    },
+    {
+      "id": "SC-G-STAIRS-B",
+      "building_id": "social-commons",
+      "name": "Staircase B",
+      "floor": 0,
+      "type": "staircase",
+      "x": 60,
+      "y": 35,
+      "aliases": [
+        "mural stairs",
+        "food court stairs",
+        "right stairs"
+      ]
+    },
+    {
+      "id": "SC-G-WASHROOM",
+      "building_id": "social-commons",
+      "name": "Washrooms",
+      "floor": 0,
+      "type": "facility",
+      "x": 70,
+      "y": 65,
+      "aliases": [
+        "bathroom",
+        "toilet",
+        "restroom",
+        "washroom",
+        "wc"
+      ]
+    },
+    {
+      "id": "SC-G-PRAYER",
+      "building_id": "social-commons",
+      "name": "Prayer Room",
+      "floor": 0,
+      "type": "room",
+      "x": 78,
+      "y": 65,
+      "aliases": [
+        "prayer room",
+        "mosque",
+        "prayer space",
+        "chapel"
+      ]
+    },
+    {
+      "id": "SC-G-ELEVATOR",
+      "building_id": "social-commons",
+      "name": "Elevator",
+      "floor": 0,
+      "type": "elevator",
+      "x": 78,
+      "y": 55,
+      "aliases": [
+        "elevator",
+        "lift",
+        "lifts"
+      ]
+    },
+    {
+      "id": "SC-G-ELEC",
+      "building_id": "social-commons",
+      "name": "Electrical Room",
+      "floor": 0,
+      "type": "utility",
+      "x": 40,
+      "y": 20,
+      "aliases": [
+        "electrical room",
+        "elec room"
+      ]
+    },
+    {
+      "id": "SC-1-STAIRS-A",
+      "building_id": "social-commons",
+      "name": "Staircase A",
+      "floor": 1,
+      "type": "staircase",
+      "x": 20,
+      "y": 50,
+      "aliases": [
+        "stairs",
+        "staircase a",
+        "left stairs"
+      ]
+    },
+    {
+      "id": "SC-1-STAIRS-B",
+      "building_id": "social-commons",
+      "name": "Staircase B",
+      "floor": 1,
+      "type": "staircase",
+      "x": 60,
+      "y": 35,
+      "aliases": [
+        "mural stairs",
+        "staircase b",
+        "right stairs"
+      ]
+    },
+    {
+      "id": "SC-1-ELEVATOR",
+      "building_id": "social-commons",
+      "name": "Elevator",
+      "floor": 1,
+      "type": "elevator",
+      "x": 78,
+      "y": 55,
+      "aliases": [
+        "elevator",
+        "lift"
+      ]
+    },
+    {
+      "id": "SC-1-GAMES",
+      "building_id": "social-commons",
+      "name": "Games Area",
+      "floor": 1,
+      "type": "common_area",
+      "x": 25,
+      "y": 50,
+      "aliases": [
+        "games area",
+        "games room",
+        "pool table",
+        "recreation area"
+      ]
+    },
+    {
+      "id": "SC-1-CORRIDOR",
+      "building_id": "social-commons",
+      "name": "First Floor Corridor",
+      "floor": 1,
+      "type": "corridor",
+      "x": 45,
+      "y": 50,
+      "aliases": [
+        "corridor",
+        "hallway",
+        "first floor hallway"
+      ]
+    },
+    {
+      "id": "SC-1-MOROCCO",
+      "building_id": "social-commons",
+      "name": "Morocco Learning Lab",
+      "floor": 1,
+      "type": "room",
+      "x": 35,
+      "y": 25,
+      "aliases": [
+        "morocco",
+        "morocco lab",
+        "morocco classroom",
+        "learning lab morocco"
+      ]
+    },
+    {
+      "id": "SC-1-ALGERIA",
+      "building_id": "social-commons",
+      "name": "Algeria Learning Lab",
+      "floor": 1,
+      "type": "room",
+      "x": 50,
+      "y": 25,
+      "aliases": [
+        "algeria",
+        "algeria lab",
+        "algeria classroom",
+        "learning lab algeria"
+      ]
+    },
+    {
+      "id": "SC-1-ETHIOPIA",
+      "building_id": "social-commons",
+      "name": "Ethiopia Learning Lab",
+      "floor": 1,
+      "type": "room",
+      "x": 70,
+      "y": 30,
+      "aliases": [
+        "ethiopia",
+        "ethiopia lab",
+        "ethiopia classroom",
+        "learning lab ethiopia"
+      ]
+    },
+    {
+      "id": "SC-1-FOODCOURT",
+      "building_id": "social-commons",
+      "name": "Food Court",
+      "floor": 1,
+      "type": "common_area",
+      "x": 60,
+      "y": 50,
+      "aliases": [
+        "food court",
+        "cafeteria",
+        "mezzanine",
+        "first floor food court"
+      ]
+    },
+    {
+      "id": "SC-1-WASHROOM",
+      "building_id": "social-commons",
+      "name": "Washrooms",
+      "floor": 1,
+      "type": "facility",
+      "x": 75,
+      "y": 65,
+      "aliases": [
+        "bathroom",
+        "toilet",
+        "restroom",
+        "washroom",
+        "wc"
+      ]
+    },
+    {
+      "id": "SC-1-POD-1",
+      "building_id": "social-commons",
+      "name": "Pod 1",
+      "floor": 1,
+      "type": "pod",
+      "x": 38,
+      "y": 55,
+      "aliases": [
+        "pod",
+        "study pod",
+        "online class pod",
+        "quiet pod"
+      ]
+    },
+    {
+      "id": "SC-1-POD-2",
+      "building_id": "social-commons",
+      "name": "Pod 2",
+      "floor": 1,
+      "type": "pod",
+      "x": 52,
+      "y": 55,
+      "aliases": [
+        "pod",
+        "study pod",
+        "online class pod",
+        "second pod"
+      ]
+    },
+    {
+      "id": "SC-2-STAIRS-A",
+      "building_id": "social-commons",
+      "name": "Staircase A",
+      "floor": 2,
+      "type": "staircase",
+      "x": 20,
+      "y": 50,
+      "aliases": [
+        "stairs",
+        "staircase a",
+        "left stairs"
+      ]
+    },
+    {
+      "id": "SC-2-STAIRS-B",
+      "building_id": "social-commons",
+      "name": "Staircase B",
+      "floor": 2,
+      "type": "staircase",
+      "x": 60,
+      "y": 35,
+      "aliases": [
+        "mural stairs",
+        "staircase b",
+        "right stairs"
+      ]
+    },
+    {
+      "id": "SC-2-ELEVATOR",
+      "building_id": "social-commons",
+      "name": "Elevator",
+      "floor": 2,
+      "type": "elevator",
+      "x": 45,
+      "y": 55,
+      "aliases": [
+        "elevator",
+        "lift"
+      ]
+    },
+    {
+      "id": "SC-2-FOODCOURT",
+      "building_id": "social-commons",
+      "name": "Food Court",
+      "floor": 2,
+      "type": "common_area",
+      "x": 35,
+      "y": 50,
+      "aliases": [
+        "food court",
+        "second floor food court",
+        "cafeteria"
+      ]
+    },
+    {
+      "id": "SC-2-VENDORS",
+      "building_id": "social-commons",
+      "name": "Vendors",
+      "floor": 2,
+      "type": "common_area",
+      "x": 28,
+      "y": 45,
+      "aliases": [
+        "vendors",
+        "vendor stalls",
+        "the pot",
+        "rolex",
+        "food stalls",
+        "canteen"
+      ]
+    },
+    {
+      "id": "SC-2-CORRIDOR",
+      "building_id": "social-commons",
+      "name": "Second Floor Corridor",
+      "floor": 2,
+      "type": "corridor",
+      "x": 60,
+      "y": 50,
+      "aliases": [
+        "corridor",
+        "hallway",
+        "second floor hallway",
+        "classroom corridor"
+      ]
+    },
+    {
+      "id": "SC-2-DJIBOUTI",
+      "building_id": "social-commons",
+      "name": "Djibouti Learning Lab",
+      "floor": 2,
+      "type": "room",
+      "x": 72,
+      "y": 35,
+      "aliases": [
+        "djibouti",
+        "djibouti lab",
+        "djibouti classroom",
+        "learning lab djibouti"
+      ]
+    },
+    {
+      "id": "SC-2-SOUTHSUDAN",
+      "building_id": "social-commons",
+      "name": "South Sudan Learning Lab",
+      "floor": 2,
+      "type": "room",
+      "x": 72,
+      "y": 55,
+      "aliases": [
+        "south sudan",
+        "south sudan lab",
+        "south sudan classroom",
+        "learning lab south sudan"
+      ]
+    },
+    {
+      "id": "SC-2-WASHROOM",
+      "building_id": "social-commons",
+      "name": "Washrooms",
+      "floor": 2,
+      "type": "facility",
+      "x": 75,
+      "y": 70,
+      "aliases": [
+        "bathroom",
+        "toilet",
+        "restroom",
+        "washroom",
+        "wc"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from_node": "SC-G-ENT-A",
+      "to_node": "SC-G-CORRIDOR",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-G-ENT-B",
+      "to_node": "SC-G-CORRIDOR",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-G-CORRIDOR",
+      "to_node": "SC-G-EGYPT",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-G-CORRIDOR",
+      "to_node": "SC-G-STAIRS-A",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-G-CORRIDOR",
+      "to_node": "SC-G-FOODCOURT",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-G-FOODCOURT",
+      "to_node": "SC-G-STAIRS-B",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-G-FOODCOURT",
+      "to_node": "SC-G-WASHROOM",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-G-WASHROOM",
+      "to_node": "SC-G-PRAYER",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-G-PRAYER",
+      "to_node": "SC-G-ELEVATOR",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-G-ELEVATOR",
+      "to_node": "SC-G-STAIRS-B",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-1-STAIRS-A",
+      "to_node": "SC-1-GAMES",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-1-STAIRS-B",
+      "to_node": "SC-1-FOODCOURT",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-1-ELEVATOR",
+      "to_node": "SC-1-CORRIDOR",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-1-GAMES",
+      "to_node": "SC-1-CORRIDOR",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-1-CORRIDOR",
+      "to_node": "SC-1-MOROCCO",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-1-CORRIDOR",
+      "to_node": "SC-1-ALGERIA",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-1-CORRIDOR",
+      "to_node": "SC-1-ETHIOPIA",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-1-CORRIDOR",
+      "to_node": "SC-1-FOODCOURT",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-1-CORRIDOR",
+      "to_node": "SC-1-WASHROOM",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-1-CORRIDOR",
+      "to_node": "SC-1-POD-1",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-1-CORRIDOR",
+      "to_node": "SC-1-POD-2",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-2-STAIRS-A",
+      "to_node": "SC-2-FOODCOURT",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-2-STAIRS-B",
+      "to_node": "SC-2-CORRIDOR",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-2-ELEVATOR",
+      "to_node": "SC-2-FOODCOURT",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-2-FOODCOURT",
+      "to_node": "SC-2-VENDORS",
+      "weight": 1
+    },
+    {
+      "from_node": "SC-2-FOODCOURT",
+      "to_node": "SC-2-CORRIDOR",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-2-CORRIDOR",
+      "to_node": "SC-2-DJIBOUTI",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-2-CORRIDOR",
+      "to_node": "SC-2-SOUTHSUDAN",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-2-CORRIDOR",
+      "to_node": "SC-2-WASHROOM",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-G-STAIRS-A",
+      "to_node": "SC-1-STAIRS-A",
+      "weight": 3
+    },
+    {
+      "from_node": "SC-1-STAIRS-A",
+      "to_node": "SC-2-STAIRS-A",
+      "weight": 3
+    },
+    {
+      "from_node": "SC-G-STAIRS-B",
+      "to_node": "SC-1-STAIRS-B",
+      "weight": 3
+    },
+    {
+      "from_node": "SC-G-ELEVATOR",
+      "to_node": "SC-1-ELEVATOR",
+      "weight": 2
+    },
+    {
+      "from_node": "SC-1-ELEVATOR",
+      "to_node": "SC-2-ELEVATOR",
+      "weight": 2
+    }
+  ]
+}
